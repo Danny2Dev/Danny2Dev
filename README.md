@@ -11,6 +11,9 @@
 - ⚡ Fun fact: I run a Tiktok Page
 
 
+##About me
+
+
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@developedbycyber) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@danielibekwe222) 
