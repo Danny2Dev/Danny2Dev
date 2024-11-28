@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on **Web and Android Projects** 
+- 🔭 I’m currently working on **Web, Android and IOS Projects** 
 - 🌱 I’m currently learning **React Native**
 - 👯 I’m looking to collaborate on **Frontend, Mobile and Backend Dev Projects**
 - 💬 Ask me about **Technology and Personal Development**
